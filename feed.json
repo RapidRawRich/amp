@@ -1,0 +1,39 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "rich",
+    "description": "",
+    "home_page_url": "http://richroberts.ca",
+    "feed_url": "http://richroberts.ca/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Rich"
+    },
+    "items": [
+        {
+            "id": "http://richroberts.ca/360.html",
+            "url": "http://richroberts.ca/360.html",
+            "title": "360",
+            "content_html": "<p>&nbsp;</p>\n<p><iframe width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m0!4v1504676224819!6m8!1m7!1sCAoSLEFGMVFpcE5TLTZPTEhHWDZLSkFnZGZtXzJaRGY4R2lHN3dBM05NRDVFYmJl!2m2!1d52.3223572!2d-113.8120956!3f292.5!4f0!5f0.7820865974627469\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>",
+            "author": {
+                "name": "Rich"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-06T00:13:47-06:00",
+            "date_modified": "2017-09-05T23:47:30-06:00"
+        },
+        {
+            "id": "http://richroberts.ca/video.html",
+            "url": "http://richroberts.ca/video.html",
+            "title": "Video",
+            "content_html": "<p>Rich Roberts</p>\n<p><iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/2ZSh_XYGqvY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>&nbsp;</p>",
+            "author": {
+                "name": "Rich"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-06T00:13:47-06:00",
+            "date_modified": "2017-09-05T23:20:39-06:00"
+        }
+    ]
+}

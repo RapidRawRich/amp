@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>rich</title>
+    <link href="http://richroberts.ca/feed.xml" rel="self" />
+    <link href="http://richroberts.ca" />
+    <updated>2017-09-06T00:13:47-06:00</updated>
+    <author>
+        <name>Rich</name>
+    </author>
+    <id>http://richroberts.ca</id>
+
+    <entry>
+        <title>360</title>
+        <author>
+            <name>Rich</name>
+        </author>
+        <link href="http://richroberts.ca/360.html"/>
+        <id>http://richroberts.ca/360.html</id>
+
+        <updated>2017-09-05T23:47:30-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>&nbsp;</p>
+<p><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m0!4v1504676224819!6m8!1m7!1sCAoSLEFGMVFpcE5TLTZPTEhHWDZLSkFnZGZtXzJaRGY4R2lHN3dBM05NRDVFYmJl!2m2!1d52.3223572!2d-113.8120956!3f292.5!4f0!5f0.7820865974627469" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Video</title>
+        <author>
+            <name>Rich</name>
+        </author>
+        <link href="http://richroberts.ca/video.html"/>
+        <id>http://richroberts.ca/video.html</id>
+
+        <updated>2017-09-05T23:20:39-06:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Rich Roberts</p>
+<p><iframe width="480" height="270" src="https://www.youtube.com/embed/2ZSh_XYGqvY" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
